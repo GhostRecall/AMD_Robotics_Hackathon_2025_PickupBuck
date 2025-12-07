@@ -1,23 +1,27 @@
 **### Make a fork or copy of this repo and fill in your team submission details! ###**
 
-# AMD_Robotics_Hackathon_2025_[Project Name]
+# AMD_Robotics_Hackathon_2025_PickupBuck
 
 ## Team Information
 
-**Team:** *Your team number, name of your team, and members*
+**Team:** *Team 33 PickupBuck* 
+*Member 1: Ben Taylor*
+*Member 2: Win Taylor (Unofficial)*
 
-**Summary:** *A brief description of your work*
+**Summary:** *Pickup Buck is a Physical AI Suite for cleaning up your room so you don't have to!*
 
-*< Images or video demonstrating your project >*
+*(Demonstration Images and Videos Coming Soon)*
 
 ## Submission Details
 
 ### 1. Mission Description
-- *Real world application of your mission*
+- *The primary application of Pickup Buck is to identify your toys, pick them up and put them away into the PickupBuck(et) that is equipped with a Lerobot robotic arm.*
+- *The user can simply say "Pickup, Buck!", "Buck" being the wake-word followed by the identifying command "Pickup", and it will begin the above application.
 
 ### 2. Creativity
-- *What is novel or unique in your approach?*
-- *Innovation in design, methodology, or application*
+- *Picking up and placing objects is one of the most fundamental actions in the Physical AI space, but what is unique here is how that function is productized for a younger user to make AI compelling and fun by addressing an everyday pain point for kids.*
+- *The ultimate embodiment of PickupBuck is a frictionless and rugged physical product, a bucket with an attached arm and vision censors, that can be placed in a play area and it will perform its functions to the child's delight.*
+- *This product can further convey AI concepts to the child by having them "teach" PickupBuck how to clean up. This fun activity will allow the child to frictionlessly generate datasets that can then be processed quickly on the AMD Cloud (WIFI connected by the parent). In no time, the child will have the dual satisfaction of having trained his AI cleanup buddy while also having help to keep a clean room.*
 
 ### 3. Technical implementations
 - *Teleoperation / Dataset capture*
@@ -27,9 +31,9 @@
     - *<Image/video of inference eval>*
 
 ### 4. Ease of use
-- *How generalizable is your implementation across tasks or environments?*
-- *Flexibility and adaptability of the solution*
-- *Types of commands or interfaces needed to control the robot*
+- *At the moment, PickupBuck must be manufactured using Lerobot.*
+- *From an end-user standpoint, PickupBuck is easy enough for a child to use, complete with voice-activated functionality, but this can be even further simplified with large single-use buttons.*
+- *Primary command is "Pickup, Buck!", but "Line up, Buck!", "Mirror them, Buck!", "Stack them, Buck!", and more planned.*
 
 ## Additional Links
 *For example, you can provide links to:*
