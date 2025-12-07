@@ -10,7 +10,7 @@
 
 **Summary:** *Pickup Buck is a Physical AI Suite for cleaning up your room so you don't have to!*
 
-*(Demonstration Images and Videos Coming Soon)*
+![Example Image 1](/IMG_1671.jpeg)
 
 ## Submission Details
 
